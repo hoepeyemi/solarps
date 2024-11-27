@@ -29,7 +29,7 @@ import {
 const IDL = require("./rps_game.json");
 const PublicKey = anchor.web3.PublicKey;
 const connection = new anchor.web3.Connection(
-  "https://api.devnet.solana.com/",
+  "https://rpc.testnet.soo.network/rpc/",
   //   "https://metaplex.devnet.rpcpool.com/",
   // "https://api.metaplex.solana.com/",
   { commitment: "confirmed" }
