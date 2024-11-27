@@ -7,7 +7,7 @@ export const BACKEND_URL = "https://william520server.com:5432/api/rps";
 export const SUPPORTED_TOKEN_INFO = [
   {
     index: 0,
-    symbol: "SOL",
+    symbol: "SOON",
     logo: "https://cryptologos.cc/logos/solana-sol-logo.svg",
     betPrices: [0.05, 0.1, 0.25, 0.5, 0.75, 1.0],
   },

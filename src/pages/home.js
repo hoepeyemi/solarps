@@ -153,7 +153,7 @@ function Home() {
                         color: "#FFC700",
                       }}
                     >
-                      {item.betAmount} SOL
+                      {item.betAmount} SOON
                     </Typography>
                     <Typography
                       sx={{

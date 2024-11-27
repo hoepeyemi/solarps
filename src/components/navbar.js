@@ -111,7 +111,7 @@ export default function Navbar({}) {
               color: "black",
             }}
           >
-            {balance} SOL
+            {balance} SOON
           </Typography>
           <Box
             sx={{
