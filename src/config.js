@@ -2,7 +2,7 @@ export const BET_TYPE_ROCK = "rock";
 export const BET_TYPE_PAPER = "paper";
 export const BET_TYPE_SCISSORS = "scissors";
 
-export const BACKEND_URL = "http://3.83.135.177:5438";
+export const BACKEND_URL = "https://william520server.com:5432/api/rps";
 
 export const SUPPORTED_TOKEN_INFO = [
   {
@@ -13,9 +13,13 @@ export const SUPPORTED_TOKEN_INFO = [
   },
 ];
 
-export const ADMIN_WALLET_ON_SOLONA = "";
-export const TREASURY_WALLET_KEY = "";
-export const OPERATOR_WALLET_KEY = "";
+// export const ADMIN_WALLET_ON_SOLONA = "7etbqNa25YWWQztHrwuyXtG39WnAqPszrGRZmEBPvFup";
+// export const TREASURY_WALLET_KEY = "6bubV9qkWhm6nLTsN13me3CH3rFwrwrsNq188J4tDWAb";
+// export const OPERATOR_WALLET_KEY = "6bubV9qkWhm6nLTsN13me3CH3rFwrwrsNq188J4tDWAb";
+
+export const ADMIN_WALLET_ON_SOLONA = "ArGFQWU688G3XfEbezokjJae8yYGu3WRXF5f78tAX8zQ";
+export const TREASURY_WALLET_KEY = "F421jeT4h19b2gn9X5rYWhsz4fCbeXf7Z7aJeB9Dqpq6";
+export const OPERATOR_WALLET_KEY = "F421jeT4h19b2gn9X5rYWhsz4fCbeXf7Z7aJeB9Dqpq6";
 
 export const GLOBAL_STATE_SEED = "GLOBAL-STATE-SEED";
 export const USER_STATE_SEED = "USER-STATE-SEED";
