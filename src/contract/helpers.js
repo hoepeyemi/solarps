@@ -35,8 +35,8 @@ const connection = new anchor.web3.Connection(
   { commitment: "confirmed" }
 );
 
-// const PROGRAM_ID = new PublicKey("67BwNSh8jbxTEqWifQWQeEHAZ5fefadHbnKyyczobFCv");
-const PROGRAM_ID = new PublicKey(IDL.metadata.address);
+const PROGRAM_ID = new PublicKey("Q83KbYxK1kwSWA8w81m8FQi3JTcgiRY4C7fxjcFQU1d");
+// const PROGRAM_ID = new PublicKey(IDL.metadata.address);
 
 // devnet
 const PYTH_ACCOUNT = new PublicKey("J83w4HKfqxwcq3BEMMkPFSppX3gqekLyLJBexebFVkix");

@@ -30,5 +30,5 @@ export const WIN_PERCENTAGE = [33, 66, 99];
 export const REWARD_MUTIPLIER = [10, 0, 0];
 
 // export const NETWORK = "mainnet-beta";
-export const NETWORK = "devnet";
+export const NETWORK = "testnet";
 
